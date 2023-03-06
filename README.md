@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CanerEfe
-- 👀 I’m interested in IOS Development
-- 🌱 I’m currently learning IOS Development
-- 💞️ I’m looking to collaborate on IOS
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 reach me canerefealtin@gmail.com
 
 <!---
